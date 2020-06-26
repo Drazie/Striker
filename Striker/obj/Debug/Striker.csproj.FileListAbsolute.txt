@@ -1,0 +1,10 @@
+D:\projects\Striker\Striker\bin\Debug\Striker.exe.config
+D:\projects\Striker\Striker\bin\Debug\Striker.exe
+D:\projects\Striker\Striker\bin\Debug\Striker.pdb
+D:\projects\Striker\Striker\obj\Debug\Striker.csprojAssemblyReference.cache
+D:\projects\Striker\Striker\obj\Debug\Striker.Form1.resources
+D:\projects\Striker\Striker\obj\Debug\Striker.Properties.Resources.resources
+D:\projects\Striker\Striker\obj\Debug\Striker.csproj.GenerateResource.cache
+D:\projects\Striker\Striker\obj\Debug\Striker.csproj.CoreCompileInputs.cache
+D:\projects\Striker\Striker\obj\Debug\Striker.exe
+D:\projects\Striker\Striker\obj\Debug\Striker.pdb
